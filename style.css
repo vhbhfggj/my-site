@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+header {
+    background-color: greenyellow;
+    display: flex;
+    justify-content: space-between;
+}
+div {
+    display: flex;
+    flex-direction: row;
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+img{
+    margin: 15px;
+}
+.my-foto {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+   border: 4px solid rgb(255, 2, 2);
+}
+p{
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blue;
+
+}
