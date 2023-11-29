@@ -1,6 +1,5 @@
 html {
-    height: 100%;
-    width: 100%;
+   background-color: rgb(20, 177, 220);
 }
 header {
     background-color: greenyellow;
@@ -30,5 +29,7 @@ p{
     font-style: italic;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:blue;
-
+}
+main {
+background-color: aqua ;
 }
