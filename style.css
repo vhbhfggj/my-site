@@ -33,3 +33,17 @@ p{
 main {
 background-color: aqua ;
 }
+.spain {
+background-color: aquamarine;
+
+}
+.i-spain {
+background-color: rgb(51, 255, 0);
+}
+.spain-title {
+    text-align: center;
+}
+.spain-link {
+    background-color: aquamarine;
+    border-radius: 10cm;
+}
