@@ -1,5 +1,9 @@
-html {
-   background-color: rgb(20, 177, 220);
+body {
+    margin: 0;
+}
+h1,h2,h3,p {
+ margin: 0;
+ padding-top:15px;  
 }
 header {
     background-color: greenyellow;
@@ -31,7 +35,7 @@ p{
     color:blue;
 }
 main {
-background-color: aqua ;
+background-color: rgb(255, 0, 238) ;
 }
 .spain {
 background-color: aquamarine;
@@ -46,4 +50,12 @@ background-color: rgb(51, 255, 0);
 .spain-link {
     background-color: aquamarine;
     border-radius: 10cm;
+}
+.spain-go {
+background-color:red;
+width: 20%;
+border-radius: 10px;
+margin-left: auto;
+margin-right: auto;
+display: block;
 }
