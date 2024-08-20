@@ -43,6 +43,8 @@ padding: 15px;
 display: block;
 width: 20%;
 text-decoration: underline dotted rgb(47, 77, 47);
+align-items: center;
+
 }
 .i-spain {
 background-color: rgb(51, 255, 0);
@@ -72,4 +74,9 @@ h1,h2,h3 {
  .fut {
     text-align: center;
     background-color: aquamarine;
+}
+.spain-foto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
